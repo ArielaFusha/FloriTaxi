@@ -1506,515 +1506,236 @@ grid-template-columns:1fr 1fr;
 
 }
 
-@media(max-width:768px){
-
-section{
-
-padding:80px 20px;
-
-}
-
-.hero{
-
-padding-top:140px;
-
-}
-
-.hero-content{
-
-grid-template-columns:1fr;
-
-}
-
-.hero-right{
-
-grid-template-columns:1fr;
-
-gap:20px;
-
-}
-
-.glass-card{
-
-margin:0 !important;
-
-}
-
-.hero-left h1{
-
-font-size:40px;
-
-}
-
-.section-title h2{
-
-font-size:32px;
-
-}
-
-.about-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.service-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.features{
-
-grid-template-columns:1fr;
-
-}
-
-.contact{
-
-grid-template-columns:1fr;
-
-}
-
-.footer-container{
-
-grid-template-columns:1fr;
-
-text-align:center;
-
-}
-
-.floating-book{
-
-position:relative;
-
-left:0;
-
-transform:none;
-
-width:100%;
-
-margin-top:50px;
-
-flex-direction:column;
-
-gap:20px;
-
-text-align:center;
-
-}
-
-.hero-buttons{
-
-flex-direction:column;
-
-}
-
-.primary-btn,
-.secondary-btn,
-.book-btn{
-
-width: auto !important;
-        padding: 8px 18px !important;
-        font-size: 13px;
-        line-height: 1;
-        align-self: center;
-
-}
-
-.experience-card{
-
-position:relative;
-
-right:0;
-
-bottom:0;
-
-margin-top:25px;
-
-}
-}
-
-
-@media(max-width:768px){
-
-section{
-
-padding:80px 20px;
-
-}
-
-.hero{
-
-padding-top:140px;
-
-}
-
-.hero-content{
-
-grid-template-columns:1fr;
-
-}
-
-.hero-right{
-
-grid-template-columns:1fr;
-
-gap:20px;
-
-}
-
-.glass-card{
-
-margin:0 !important;
-
-}
-
-.hero-left h1{
-
-font-size:40px;
-
-}
-
-.section-title h2{
-
-font-size:32px;
-
-}
-
-.about-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.service-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.features{
-
-grid-template-columns:1fr;
-
-}
-
-.contact{
-
-grid-template-columns:1fr;
-
-}
-
-.footer-container{
-
-grid-template-columns:1fr;
-
-text-align:center;
-
-}
-
-.floating-book{
-
-position:relative;
-
-left:0;
-
-transform:none;
-
-width:100%;
-
-margin-top:50px;
-
-flex-direction:column;
-
-gap:20px;
-
-text-align:center;
-
-}
-
-.hero-buttons{
-
-flex-direction:column;
-
-}
-
-.primary-btn,
-.secondary-btn,
-.book-btn{
-
-width:100%;
-
-justify-content:center;
-
-}
-
-.experience-card{
-
-position:relative;
-
-right:0;
-
-bottom:0;
-
-margin-top:25px;
-
-}
-}
-
-@media(max-width:768px){
-
-section{
-
-padding:80px 20px;
-
-}
-
-.hero{
-
-padding-top:140px;
-
-}
-
-.hero-content{
-
-grid-template-columns:1fr;
-
-}
-
-.hero-right{
-
-grid-template-columns:1fr;
-
-gap:20px;
-
-}
-
-.glass-card{
-
-margin:0 !important;
-
-}
-
-.hero-left h1{
-
-font-size:40px;
-
-}
-
-.section-title h2{
-
-font-size:32px;
-
-}
-
-.about-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.service-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.features{
-
-grid-template-columns:1fr;
-
-}
-
-.contact{
-
-grid-template-columns:1fr;
-
-}
-
-.footer-container{
-
-grid-template-columns:1fr;
-
-text-align:center;
-
-}
-
-.floating-book{
-
-position:relative;
-
-left:0;
-
-transform:none;
-
-width:100%;
-
-margin-top:50px;
-
-flex-direction:column;
-
-gap:20px;
-
-text-align:center;
-
-}
-
-.hero-buttons{
-
-flex-direction:column;
-
-}
-
-.primary-btn,
-.secondary-btn,
-.book-btn{
-
-width:100%;
-
-justify-content:center;
-
-}
-
-.experience-card{
-
-position:relative;
-
-right:0;
-
-bottom:0;
-
-margin-top:25px;
-
-}
-}
-
-@media(max-width:768px){
-
-section{
-
-padding:80px 20px;
-
-}
-
-.hero{
-
-padding-top:140px;
-
-}
-
-.hero-content{
-
-grid-template-columns:1fr;
-
-}
-
-.hero-right{
-
-grid-template-columns:1fr;
-
-gap:20px;
-
-}
-
-.glass-card{
-
-margin:0 !important;
-
-}
-
-.hero-left h1{
-
-font-size:40px;
-
-}
-
-.section-title h2{
-
-font-size:32px;
-
-}
-
-.about-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.service-grid{
-
-grid-template-columns:1fr;
-
-}
-
-.features{
-
-grid-template-columns:1fr;
-
-}
-
-.contact{
-
-grid-template-columns:1fr;
-
-}
-
-.footer-container{
-
-grid-template-columns:1fr;
-
-text-align:center;
-
-}
-
-.floating-book{
-
-position:relative;
-
-left:0;
-
-transform:none;
-
-width:100%;
-
-margin-top:50px;
-
-flex-direction:column;
-
-gap:20px;
-
-text-align:center;
-
-}
-
-.hero-buttons{
-
-flex-direction:column;
-
-}
-
-.primary-btn,
-.secondary-btn,
-.book-btn{
-
-width:100%;
-
-justify-content:center;
-
-}
-
-.experience-card{
-
-position:relative;
-
-right:0;
-
-bottom:0;
-
-margin-top:25px;
-
-}
+@media (max-width:768px){
+
+    html,
+    body{
+        overflow-x:hidden;
+        width:100%;
+    }
+
+    section{
+        padding:80px 20px;
+    }
+
+    .nav-links{
+        display:none;
+    }
+
+    .menu-btn{
+        display:block;
+    }
+
+    .navbar{
+        height:75px;
+    }
+
+    .logo{
+        font-size:22px;
+    }
+
+    .hero{
+        padding:130px 20px 80px;
+        min-height:auto;
+    }
+
+    .hero-content{
+        grid-template-columns:1fr;
+        text-align:center;
+        gap:40px;
+    }
+
+    .hero-left{
+        margin:auto;
+    }
+
+    .hero-left h1{
+        font-size:40px;
+        line-height:1.2;
+    }
+
+    .hero-left p{
+        font-size:16px;
+    }
+
+    .hero-buttons{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        gap:15px;
+    }
+
+    .primary-btn,
+    .secondary-btn,
+    .book-btn{
+        width:auto;
+        padding:10px 22px;
+        font-size:14px;
+        justify-content:center;
+    }
+
+    .hero-right{
+        grid-template-columns:repeat(2,1fr);
+        gap:15px;
+        margin-top:20px;
+    }
+
+    .glass-card{
+        margin:0 !important;
+    }
+
+    .glass-card img{
+        height:150px;
+    }
+
+    .card-text{
+        padding:15px;
+    }
+
+    .card-text h3{
+        font-size:18px;
+    }
+
+    .card-text p{
+        font-size:13px;
+    }
+
+    .about-grid{
+        grid-template-columns:1fr;
+        gap:40px;
+    }
+
+    .timeline-item{
+        gap:18px;
+    }
+
+    .circle{
+        width:55px;
+        height:55px;
+    }
+
+    .timeline-item h3{
+        font-size:20px;
+    }
+
+    .timeline-item p{
+        font-size:14px;
+    }
+
+    .service-grid{
+        display:grid;
+        grid-template-columns:repeat(2,1fr);
+        gap:15px;
+    }
+
+    .service-card{
+        padding:22px 15px;
+        margin-top:0 !important;
+    }
+
+    .service-card i{
+        width:60px;
+        height:60px;
+        font-size:24px;
+        margin-bottom:15px;
+    }
+
+    .service-card h3{
+        font-size:19px;
+    }
+
+    .service-card p{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .service-card:nth-child(2),
+    .service-card:nth-child(5){
+        margin-top:0 !important;
+    }
+
+    .features{
+        display:grid;
+        grid-template-columns:repeat(2,1fr);
+        gap:15px;
+    }
+
+    .feature{
+        padding:22px 15px;
+    }
+
+    .feature i{
+        width:60px;
+        height:60px;
+        font-size:24px;
+        margin-bottom:15px;
+    }
+
+    .feature h3{
+        font-size:19px;
+    }
+
+    .feature p{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .cta-content{
+        padding:45px 25px;
+    }
+
+    .cta-content h2{
+        font-size:34px;
+    }
+
+    .cta-content p{
+        font-size:15px;
+    }
+
+    .cta-buttons{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .contact{
+        grid-template-columns:1fr;
+    }
+
+    .contact-left h2{
+        font-size:34px;
+    }
+
+    .footer-container{
+        grid-template-columns:1fr;
+        text-align:center;
+        gap:35px;
+    }
+
+    .section-title h2{
+        font-size:32px;
+    }
+
+    .section-title p{
+        font-size:15px;
+    }
+
+    .experience-card{
+        position:relative;
+        right:0;
+        bottom:0;
+        margin-top:25px;
+    }
+
+    .floating-book{
+        position:relative;
+        left:0;
+        transform:none;
+        width:100%;
+        margin-top:40px;
+        flex-direction:column;
+        gap:20px;
+        text-align:center;
+    }
 
 }
 
